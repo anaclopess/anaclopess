@@ -1,6 +1,7 @@
-# Olá, sou a Ana
+# oi
 
-Back-end em Recife — Python, FastAPI, APIs em saúde digital.
+Trabalho com backend em Recife, num produto de saúde. Agenda, integração com clínica, coisa que quebra de sexta à tarde.
 
-- Trabalho com agendamento e integrações internas
-- Repositórios públicos: dotfiles e ferramentas de linha de comando
+Aqui fica meu dotfiles e um CLI que eu mesma uso. Nada glamouroso.
+
+Se pegar algo útil, beleza.
