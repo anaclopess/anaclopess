@@ -1,5 +1,7 @@
 # Ana Cláudia Lopes
 
-recife.
-agendamento médico, serviço interno, bastante fila.
-dotfiles e tool-cli no público. o resto fica privado.
+Recife.
+
+Trabalho com backend numa empresa de saúde, agenda médica e API interna. Na prática é muita fila e integração.
+
+Fora do horário fico no terminal e nos dotfiles.
