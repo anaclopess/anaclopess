@@ -1,7 +1,8 @@
 # Ana Cláudia Lopes
 
-Recife.
+Recife. Backend, Go, Postgres.
 
-Trabalho com backend numa empresa de saúde, agenda médica e API interna. Na prática é muita fila e integração.
+Trabalho mais em coisa interna (agenda, API, integração). Código público fica aqui nos repos quando der.
 
-Fora do horário fico no terminal e nos dotfiles.
+- Go
+- Postgres
